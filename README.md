@@ -1,2 +1,2 @@
-# HDSC-HC32FO30-VIP-BMS-
-A hardware hacking project dedicated to reverse engineering the HC32 F030 Line of microcontrollers used in a VIP BMS board.
+# EMBEDDED SYSTEMS MASTERCLASS
+This is a masterclass dedicated to teaching embedded systems by reverse engineering and laying out schematics based on real world case studies.
